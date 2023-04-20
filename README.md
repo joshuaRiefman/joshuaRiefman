@@ -1,5 +1,5 @@
 ```cs
-public class JoshuaRiefman : SoftwareEngineer
+public class JoshuaRiefman
 {
     public class Bio
     {

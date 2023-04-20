@@ -1,16 +1,19 @@
-### Hi there 👋
+```cs
+public class JoshuaRiefman : SoftwareEngineer
+{
+    public class Bio
+    {
+        public string education = "Engineering Undergraduate";
+        public string institution = "University of British Columbia";
+        public string location = "Vancouver, BC";
+        public string[] interests = { "Machine Learning", "Computational Science", "Full-Stack Web Development" };
+    };
 
-<!--
-**joshuaRiefman/joshuaRiefman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public class Skills
+    {
+        public string[] languages = { "Python", "C++", "C#", "Java", "GoLang"};
+        public string[] technologies = { "Unity", "Django", "React", "AWS" };
+        public string[] currently_learning = { "Rust", "TensorFlow", "TypeScript" };
+    }
+}
+```
